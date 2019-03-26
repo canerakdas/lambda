@@ -1,0 +1,1 @@
+/home/fishy/workspace/go-path/src/gabenapi/views/game/show.tpl
