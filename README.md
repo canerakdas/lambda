@@ -50,7 +50,7 @@ Enter the go path directory
 
 Clone the repository
 
-    git clone https://gitlab.com/canerakdas/lambda.git
+    git clone https://github.com/canerakdas/lambda.git
 
 Migrate database
 
